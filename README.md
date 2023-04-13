@@ -1,6 +1,8 @@
 Example Voting App
 =========
 
+Example change for code review
+
 Getting started
 ---------------
 
